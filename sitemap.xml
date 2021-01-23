@@ -1,22 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.com/2020/11/12/hello-world/</loc>
-    
-    <lastmod>2020-11-12</lastmod>
-    
+    <loc>https://edsgerwong.me/categories/</loc>
   </url>
   
-
   <url>
-    <loc>http://example.com/</loc>
-    <lastmod>2020-11-20</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
+    <loc>https://edsgerwong.me/</loc>
   </url>
-
   
-
+  <url>
+    <loc>https://edsgerwong.me/tags/</loc>
+  </url>
   
 </urlset>
